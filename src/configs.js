@@ -1,0 +1,1 @@
+export let API_URL = 'http://api.asanshahr.com/api/offers?pageSize=10&pageNumber=1';
